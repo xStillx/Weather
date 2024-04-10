@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="top_cities">Топ городов</string>
+    <string name="search">Поиск</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="days">Дни</string>
+    <string name="no_internet_connection">Нет подключения к интернету</string>
+    <string name="blank_city">Ничего не найдено</string>
+    <string name="temperature_in_c">%d °C</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+</resources>
